@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="app_name">Podcatcher</string>
+    <string name="label">Podcasts</string>
+    <string name="play_str">Play</string>
+    <string name="pause_str">Pause</string>
+    <string name="valid_url">Please enter a valid url</string>
+    <string name="enter_valid_url">Please enter podcast url</string>
+    <string name="fetching_podcast">Fetching Podcast Information ...</string>
+    <string name="url_not_found">Podcast url not found. Please check the url or try again</string>
+    <string name="now_playing">Now Playing: </string>
+    <string name="loading_recent">Loading recent articles...</string>
+
+</resources>
