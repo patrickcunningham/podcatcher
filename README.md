@@ -1,5 +1,5 @@
-# podcatcher
-As part of the Mobile Applications Android course, a deliverable is a final project that covers
+# Podcatcher - BBC Software Engineering & Internet Applications MSc - Mobile Applications Android
+As part of the course, a deliverable is a final project that covers
 certain topics learned over the period of the three day course. The final project is in the form
 of a fully functioning Android application. This document proposes the details of the project,
 how it aims to cover the requirements of the final project and justifications.
